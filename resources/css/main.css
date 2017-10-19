@@ -34,3 +34,7 @@ p {
   font-size: 21px;
   text-align: right;
 }
+
+#media {
+  background-color: transparent;
+}
